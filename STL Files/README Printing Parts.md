@@ -1,3 +1,7 @@
+# Tips
+
+If you plan on having a heated bed, I recommend not printing the print head out of PLA because of the fan shrouds proximity to the bed.
+
 # Why have assemblies of parts?
 
 These assemblies of parts can make it easier/faster to print Printer Kitten parts.
