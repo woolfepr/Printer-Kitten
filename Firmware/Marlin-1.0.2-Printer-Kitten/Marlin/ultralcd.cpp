@@ -638,9 +638,15 @@ void lcd_unload_filament()
 
 void lcd_home()
 {
+  //enquecommand_P(PSTR("G90"));
+  //enquecommand_P(PSTR("G28 X Y"));
+  //enquecommand_P(PSTR("M203 X4 Y4"));
   enquecommand_P(PSTR("G28"));
-  enquecommand_P(PSTR("G92 X.5 Y.5"));
-  enquecommand_P(PSTR("G0 X0 Y0"));
+  //enquecommand_P(PSTR("M203 Z0.35"));
+  //enquecommand_P(PSTR("G28 Z"));
+  //enquecommand_P(PSTR("M502"));
+  //enquecommand_P(PSTR("G92 X1.2 Y1.2 Z0.0"));
+  //enquecommand_P(PSTR("G1 X0 Y0 Z0"));
 }
 
 static void lcd_prepare_menu()
