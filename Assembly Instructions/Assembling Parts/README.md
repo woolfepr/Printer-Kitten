@@ -1,21 +1,26 @@
-#Upper Back Right Corner
-![Assembly Picture](./Raw Assembly Pictures/PKA_50.JPG)
-##Y End Stop
-Printed part
+# Upper Back Right Corner
 
-Use one the two shorter end stop wires.
+![Assembly Picture](./Raw Assembly Pictures/PKA_50.JPG)
+
+
+
+## Y End Stop
+
+Upper back right printed part
+
+Shorter end stop wire (1 of 2, mini rambo box)
 
 ![Assembly Picture](./Raw Assembly Pictures/PKA_1.JPG)
 
-It is important the wire goes through the hole as shown.
+It is important the wire goes through the hole as shown
 
 ![Assembly Picture](./Raw Assembly Pictures/PKA_2.JPG)
 
-Feed through other hole as shown.
+Feed through the other hole as shown
 
 ![Assembly Picture](./Raw Assembly Pictures/PKA_3.JPG)
 
-Orient the sensor so the smaller flat side (with text) is not against the plastic.
+Orient the sensor so the smaller flat side (with text) is **not** against the plastic.
 
 ![Assembly Picture](./Raw Assembly Pictures/PKA_4.JPG)
 
@@ -23,57 +28,63 @@ Push the sensor down until it is in the pocket. Use a drop of medium or thick vi
 
 ![Assembly Picture](./Raw Assembly Pictures/PKA_5.JPG)
 
-##X End Stop
 
-Use the other one of the two shorter end stop wires.
+
+## X End Stop
+
+Upper back right corner you just prepared
+
+Shorter end stop wire (mini rambo box)
 
 ![Assembly Picture](./Raw Assembly Pictures/PKA_6.JPG)
 
-Feed through this hole as shown.
+Feed the end stop sensor through this hole as shown.
 
 ![Assembly Picture](./Raw Assembly Pictures/PKA_7.JPG)
 
-Orient the sensor so the smaller flat side (with text) is not against the plastic.
+Orient the sensor so the smaller flat side (with text) is **not** against the plastic.
 
 ![Assembly Picture](./Raw Assembly Pictures/PKA_8.JPG)
 
 Push the sensor down until it is in the pocket. Use a drop of medium or thick viscosity super glue to glue the sensor in the pocket (recommended).
 
-##Bearings
+
+
+## Bearings
+
+Upper back right corner you just prepared
 
 2 R188 bearings (larger bearing in bag 15)
 
-End stop assembly you just prepared
-
 ![Assembly Picture](./Raw Assembly Pictures/PKA_9.JPG)
 
-Install bearings into the larger holes. Ensure bearings are fully seated.
+Install bearings into the larger holes. Ensure bearings are fully seated. It can be helpful to press the bearings in with the back of a screwdriver.
 
 ![Assembly Picture](./Raw Assembly Pictures/PKA_10.JPG)
 
 
 
-##Frame Bolts
+## Frame Bolts
+
+Upper back right corner you just prepared
 
 5 M3x8 socket head cap screws (bag 1)
 
 5 M3 square nuts (bag 11)
 
-End stop assembly you just prepared
-
 ![Assembly Picture](./Raw Assembly Pictures/PKA_11.JPG)
 
-Place screws in holes as shown and thread nuts onto them.
+Place 5 screws in holes as shown and thread nuts onto them.
 
 ![Assembly Picture](./Raw Assembly Pictures/PKA_12.JPG)
 
 
 
-##Attach to Frame
+## Attach to Frame
+
+Upper back right corner you just prepared
 
 Longer extrusion
-
-End stop assembly you just prepared
 
 ![Assembly Picture](./Raw Assembly Pictures/PKA_13.JPG)
 
@@ -83,7 +94,7 @@ Slide extrusion along longest side of printed part. Feed the 3 nuts into the slo
 
 
 
-##Prepare Frame Rail
+## Prepare Frame Rail
 
 2 Shorter extrusion
 
@@ -97,7 +108,7 @@ Thread screws onto both end of rods. Leave about 2mm of spacing under screw cap.
 
 
 
-##Make Frame Corner
+## Make Frame Corner
 
 Both shorter extrusions you just prepared
 
@@ -127,7 +138,7 @@ Tighten all 5 screws holding printed part on using the same 2.5mm allen key. Ens
 
 
 
-##X Axis Motor Thermal Pad
+## X Axis Motor Thermal Pad
 
 1 thermal pad (bag 19)
 
@@ -141,7 +152,7 @@ Remover liner from both side of thermal pad and place on motor as pictured.
 
 
 
-##X Axis Idler
+## X Axis Idler
 
 2 684 bearings (smaller bearings in bag 15)
 
@@ -166,7 +177,7 @@ Put bearing onto other side of idler
 ![Assembly Picture](./Raw Assembly Pictures/PKA_27.JPG)
 
 
-##Attach X Axis Motor
+## Attach X Axis Motor
 
 X Axis Motor you just prepared
 
@@ -178,9 +189,13 @@ Idler you just prepared
 
 ![Assembly Picture](./Raw Assembly Pictures/PKA_28.JPG)
 
-Place motor as shown so thermal pad is against frame. Attach the idler as shown using a 2mm allen key.
+Place motor as shown so thermal pad is against frame.
 
-![Assembly Picture](./Raw Assembly Pictures/PKA_29.JPG)
+![Assembly Picture](./Raw Assembly Pictures/PKA_29.JPG) 
+
+Attach the idler as shown using a 2mm allen key.
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_29-1.JPG)
 
 Screw button head cap screw into hole as shown. Tighten with 2mm allen key.
 
@@ -188,11 +203,11 @@ Screw button head cap screw into hole as shown. Tighten with 2mm allen key.
 
 Screw socket head cap screw into the remain hole. Tighten with 2.5mm allen key.
 
-![Assembly Picture](./Raw Assembly Pictures/PKA_31.JPG)
+![Assembly Picture](./Raw Assembly Pictures/PKA_31.JPG) 
 
 
 
-##X Axis Motor Pulley
+## X Axis Motor Pulley
 
 2 M3 set screws (bag 23)
 
@@ -216,7 +231,7 @@ Bad
 
 
 
-##Y Axis Idler
+## Y Axis Idler
 
 2 684 bearings (smaller bearings in bag 15)
 
@@ -242,7 +257,7 @@ Put bearing onto other side of idler
 
 
 
-##Y Axis Motor Pulley
+## Y Axis Motor Pulley
 
 2 M3 set screws (bag 23)
 
@@ -262,7 +277,7 @@ Install pulley onto motor. Do not tighten.
 
 
 
-##Y Axis Motor Mounting
+## Y Axis Motor Mounting
 
 Y axis motor you just prepared
 
@@ -300,7 +315,7 @@ Remover liner from both side of thermal pad and place on motor as pictured.
 
 
 
-##Attach Y Axis Motor Assembly
+## Attach Y Axis Motor Assembly
 
 Y Axis Motor Assembly
 
@@ -308,25 +323,27 @@ Y Axis Motor Assembly
 
 3 M3 square nuts (bag 11)
 
-![Assembly Picture](./Raw Assembly Pictures/PKA_46.JPG)
+![Assembly Picture](./Raw Assembly Pictures/PKA_46.JPG) 
 
 Place Y motor assembly as shown.
 
-![Assembly Picture](./Raw Assembly Pictures/PKA_47.JPG)
+![Assembly Picture](./Raw Assembly Pictures/PKA_47.JPG) 
 
 Slide nuts onto extrusion and align with holes on y axis motor assembly. Install screws and tighten each nut as it is aligned. It is helpful to use an allen key to slide the nut down the extrusion.
 
 ![Assembly Picture](./Raw Assembly Pictures/PKA_48.JPG)
 
-![Assembly Picture](./Raw Assembly Pictures/PKA_49.JPG)
+![Assembly Picture](./Raw Assembly Pictures/PKA_49.JPG) 
 
 
 
-##Upper Back Left Corner
+# Upper Back Left Corner
 
 ![Assembly Picture](./Raw Assembly Pictures/PKA_68.JPG)
 
-Z Axis Upper Rod Mount
+
+
+## Z Axis Upper Rod Mount
 
 3 M3x8 socket head cap screws (bag 1)
 
@@ -334,7 +351,7 @@ Z Axis Upper Rod Mount
 
 Z axis upper rod mount printed part
 
-![Assembly Picture](./Raw Assembly Pictures/PKA_51.JPG)
+![Assembly Picture](./Raw Assembly Pictures/PKA_51.JPG) 
 
 Note that you use the correct printed part, correct part on left
 
@@ -346,11 +363,11 @@ Place screws in holes as shown and thread nuts onto them.
 
 Slide assembly onto shorter extrusion as shown. The orientation of the part is important. Do not tighten.
 
-![Assembly Picture](./Raw Assembly Pictures/PKA_54.JPG)
+![Assembly Picture](./Raw Assembly Pictures/PKA_54.JPG) 
 
 
 
-##Upper Back Left Corner
+## Upper Back Left Corner
 
 Upper back left corner printed part (listed as upper front right corner in BOM, but identical part)
 
@@ -376,7 +393,7 @@ Place screws in holes as shown and thread nuts onto them.
 
 
 
-##Short Extrusion Sub Assembly
+## Short Extrusion Sub Assembly
 
 1 Shorter extrusion
 
@@ -390,7 +407,7 @@ Thread screws onto both end of rod. Leave about 2mm of spacing under screw cap.
 
 
 
-##Install Upper Back Left Corner
+## Install Upper Back Left Corner
 
 Shorter extrusion you just prepared
 
@@ -398,7 +415,7 @@ Upper back left corner you just prepared
 
 Longer extrusion
 
-![Assembly Picture](./Raw Assembly Pictures/PKA_60.JPG)
+![Assembly Picture](./Raw Assembly Pictures/PKA_60.JPG) 
 
 Slider longer extrusion along back corner of part. Feed the two nuts into the slots on the extrusion.
 
@@ -410,7 +427,7 @@ Slider the shorter extrusion along the part as shown. Feed the nut into the slot
 
 Slider the extrusion attached to the rest of the printer along the last remaining side. Feed the nut into the slot.
 
-![Assembly Picture](./Raw Assembly Pictures/PKA_63.JPG)
+![Assembly Picture](./Raw Assembly Pictures/PKA_63.JPG) 
 
 Slide the longer extrusion up so that the screw caps from the two shorter extrusions feed into the slots on the longer extrusion. Use a 2.5mm allen key to tighten the screws in the extrusion. Insert the allen key through the drilled hole to tighten. As you tighten insure the extrusions are square and flush.
 
@@ -424,11 +441,11 @@ Slide Z axis upper rod mount against the printer corner piece you just installed
 
 Good
 
-![Assembly Picture](./Raw Assembly Pictures/PKA_66.JPG)
+![Assembly Picture](./Raw Assembly Pictures/PKA_66.JPG) 
 
 Bad
 
-![Assembly Picture](./Raw Assembly Pictures/PKA_66-1.JPG)
+![Assembly Picture](./Raw Assembly Pictures/PKA_66-1.JPG) 
 
 Tighten the three screws with 2.5mm allen key.
 
@@ -436,7 +453,7 @@ Tighten the three screws with 2.5mm allen key.
 
 
 
-##Upper Front Right Corner
+## Upper Front Right Corner
 
 ![Assembly Picture](./Raw Assembly Pictures/PKA_74.JPG)
 
@@ -466,7 +483,7 @@ Place screws in holes as shown and thread nuts onto them.
 
 
 
-##Short Extrusion Sub Assembly
+## Short Extrusion Sub Assembly
 
 1 Shorter extrusion
 
@@ -476,11 +493,11 @@ Place screws in holes as shown and thread nuts onto them.
 
 Thread screws onto both end of rod. Leave about 2mm of spacing under screw cap.
 
-![Assembly Picture](./Raw Assembly Pictures/PKA_60.JPG)
+![Assembly Picture](./Raw Assembly Pictures/PKA_16.JPG) WRONG?
 
 
 
-##Install Upper Front Right Corner
+## Install Upper Front Right Corner
 
 Shorter extrusion you just prepared
 
@@ -488,7 +505,7 @@ Upper front right corner you just prepared
 
 Longer extrusion
 
-![Assembly Picture](./Raw Assembly Pictures/PKA_69.JPG)
+![Assembly Picture](./Raw Assembly Pictures/PKA_69.JPG) 
 
 Slider longer extrusion along back corner of part. Feed the two nuts into the slots on the extrusion.
 
@@ -512,11 +529,13 @@ Tighten the four screws on the corner part with 2.5mm allen key. Ensuring the pa
 
 
 
-##Upper Front Left Corner
+# Upper Front Left Corner
 
 ![Assembly Picture](./Raw Assembly Pictures/PKA_83.JPG)
 
-Upper Front Left Corner
+
+
+## Upper Front Left Corner
 
 Upper front left corner printed part
 
@@ -534,17 +553,17 @@ Install bearings into the holes. Ensure fully seated
 
 Place screws in holes as shown and thread nuts onto them.
 
-![Assembly Picture](./Raw Assembly Pictures/PKA_77.JPG)
+![Assembly Picture](./Raw Assembly Pictures/PKA_77.JPG) 
 
 
 
-##Install Upper Front Left Corner
+## Install Upper Front Left Corner
 
 Longer extrusion
 
 Upper front left corner you just prepared
 
-![Assembly Picture](./Raw Assembly Pictures/PKA_78.JPG)
+![Assembly Picture](./Raw Assembly Pictures/PKA_78.JPG) 
 
 Slider longer extrusion along back corner of part. Feed the two nuts into the slots on the extrusion.
 
@@ -568,11 +587,13 @@ Tighten the four screws on the corner part with 2.5mm allen key. Ensuring the pa
 
 
 
-#X Y Axis Rods
+# XY Axis Rods
 
 ![Assembly Picture](./Raw Assembly Pictures/PKA_114.JPG)
 
-##Rod Pulleys
+
+
+## Rod Pulleys
 
 8 20 tooth pulley (bag 23)
 
@@ -585,7 +606,7 @@ Preinstall the set screws into the pulleys as shown using 1.5mm allen key.
 ![Assembly Picture](./Raw Assembly Pictures/PKA_85.JPG)
 
 
-##Magnets on XY Ends
+## Magnets on XY Ends
 
 2 xy end printed part
 
@@ -598,7 +619,7 @@ Glue magnets into the hole in the printed part as shown. Use medium or thick vis
 ![Assembly Picture](./Raw Assembly Pictures/PKA_87.JPG)
 
 
-#Install XY Rods With Magnets on Printer
+## Install XY Rods With Magnets on Printer
 
 4 pulley assemblies you just prepared
 
@@ -612,19 +633,19 @@ Glue magnets into the hole in the printed part as shown. Use medium or thick vis
 
 Insert rod into bearing on back right corner as shown
 
-![Assembly Picture](./Raw Assembly Pictures/PKA_89.JPG)
+![Assembly Picture](./Raw Assembly Pictures/PKA_89.JPG) 
 
 Slide printed spacer onto rod
 
-![Assembly Picture](./Raw Assembly Pictures/PKA_90.JPG)
+![Assembly Picture](./Raw Assembly Pictures/PKA_90.JPG) 
 
 Slide pulley onto rod as shown
 
-![Assembly Picture](./Raw Assembly Pictures/PKA_91.JPG)
+![Assembly Picture](./Raw Assembly Pictures/PKA_91.JPG) 
 
 Slide xy end printed part onto rod as shown
 
-![Assembly Picture](./Raw Assembly Pictures/PKA_92.JPG)
+![Assembly Picture](./Raw Assembly Pictures/PKA_92.JPG) 
 
 Push rod to other end and slider pulley and printed spacer onto rod
 
@@ -632,9 +653,9 @@ Push rod to other end and slider pulley and printed spacer onto rod
 
 Justify pulley and spacer outwards against bearings. Center the rod in the bearings.
 
-![Assembly Picture](./Raw Assembly Pictures/PKA_94.JPG)
+![Assembly Picture](./Raw Assembly Pictures/PKA_94.JPG) 
 
-Tighten the two set screws of the pulley on the back right corner only. Using 1.5mm allen key
+Tighten the two set screws of the pulley on the back right corner only. Using 1.5mm allen key. Do not tighten left pulley yet.
 
 ![Assembly Picture](./Raw Assembly Pictures/PKA_95.JPG)
 
@@ -656,17 +677,20 @@ Slide xy end printed part onto rod
 
 Push rod to other end and slide pulley and printed spacer onto rod. Justify spacers and pulleys outwards
 
-![Assembly Picture](./Raw Assembly Pictures/PKA_100.JPG)
+![Assembly Picture](./Raw Assembly Pictures/PKA_100.JPG) 
 
-Tighten the set screws on the pulley only on the back right corner using a 1.5mm allen key
+Tighten the set screws on the pulley only on the back right corner using a 1.5mm allen key. Do not righten left pulley yet.
 
-![Assembly Picture](./Raw Assembly Pictures/PKA_101.JPG)
+![Assembly Picture](./Raw Assembly Pictures/PKA_101.JPG) 
 
 Temporally tape over the end of the rod on the front right corner so it can’t fall out when you move the printer during assembly.
 
 ![Assembly Picture](./Raw Assembly Pictures/PKA_102.JPG)
 
-Install XY Rods Without Magnets on Printer
+
+
+
+## Install XY Rods Without Magnets on Printer
 
 4 pulley assemblies you just prepared
 
@@ -719,11 +743,11 @@ Temporally tape over the end of the rod on the front left corner so it can’t f
 
 
 
-#Belts
+# Belts
 
 ![Assembly Picture](./Raw Assembly Pictures/PKA_170.JPG)
 
-##X Axis Motor Belt
+## X Axis Motor Belt
 
 1 6mm motor belt (bag 17)
 
@@ -736,7 +760,6 @@ Temporally tape over the end of the rod on the front left corner so it can’t f
 1 XY End Belt Clamp 2
 
 1 XY End Belt Clamp 3
-
 
 ![Assembly Picture](./Raw Assembly Pictures/PKA_115.JPG)
 
@@ -766,7 +789,7 @@ Press end belt clamp all the way in
 
 Route belt as shown
 
-![Assembly Picture](./Raw Assembly Pictures/PKA_122.JPG)
+![Assembly Picture](./Raw Assembly Pictures/PKA_122.JPG) 
 
 Place teeth of belt into teeth of end belt clamp 2. The tapered end should be facing toward the end of the belt. Place end belt clamp 3 on the non toothed side of the belt. The narrower end should be facing toward the end of the belt and the groove should be against the belt. See picture.
 
@@ -794,7 +817,7 @@ Tighten longer screw in belt clamp 3 with a 3/32” allen key (ball end recommen
 
 
 
-##Y Axis Motor Belt
+## Y Axis Motor Belt
 
 1 6mm motor belt (bag 17)
 
@@ -812,7 +835,7 @@ Tighten longer screw in belt clamp 3 with a 3/32” allen key (ball end recommen
 
 Route belt as shown
 
-![Assembly Picture](./Raw Assembly Pictures/PKA_130.JPG)
+![Assembly Picture](./Raw Assembly Pictures/PKA_130.JPG) 
 
 Ensure belt goes over Y motor pulley
 
@@ -852,7 +875,7 @@ Tighten longer screw in belt clamp 3 with a 3/32” allen key (ball end recommen
 
 
 
-##X Axis Non Motor Belt
+## X Axis Non Motor Belt
 
 1 6mm non motor belt (bag 18)
 
@@ -904,7 +927,9 @@ Tighten longer screw in belt clamp 3 with a 3/32” allen key (ball end recommen
 
 ![Assembly Picture](./Raw Assembly Pictures/PKA_149.JPG)
 
-Y Axis Non Motor Belt
+
+
+## Y Axis Non Motor Belt
 
 1 6mm non motor belt (bag 18)
 
@@ -926,7 +951,7 @@ Insert belt onto left XY end as shown. Make sure the belt is fully seated in the
 
 Insert end belt clamp 1 narrow end first as shown being sure that the small groove is against the belt
 
-(pic omitted)
+![Assembly Picture](./Raw Assembly Pictures/PKA_150-1.JPG)
 
 Route belt as shown
 
@@ -938,7 +963,7 @@ Place teeth of belt into teeth of end belt clamp 2. The tapered end should be fa
 
 Insert into end as shown
 
-![Assembly Picture](./Raw Assembly Pictures/PKA_153.JPG)
+![Assembly Picture](./Raw Assembly Pictures/PKA_153.JPG) 
 
 Insert the short screw into end belt clamp 2 as shown. Rotate the screw using a 3/32” allen key (ball end recommended) until the threads engage but do not tighten. 
 
@@ -958,13 +983,13 @@ Tighten longer screw in belt clamp 3 with a 3/32” allen key (ball end recommen
 
 
 
-##Aligning Belts
+## Aligning Belts
 
 No new parts
 
 Push back X end all the way to right (back right corner) until the end contacts the pulley
 
-![Assembly Picture](./Raw Assembly Pictures/PKA_158.JPG)
+![Assembly Picture](./Raw Assembly Pictures/PKA_158.JPG) 
 
 Puch front X end all the way to right (front right corner) until the end contacts the pulley
 
@@ -990,7 +1015,7 @@ If done properly if you move one X end printed part the other one should move in
 
 Push right Y end all the way to the back right corner as shown until the end contacts the pulley
 
-![Assembly Picture](./Raw Assembly Pictures/PKA_164.JPG)
+![Assembly Picture](./Raw Assembly Pictures/PKA_164.JPG) 
 
 Push left Y end all the way to the back left corner as shown until the end contacts the pulley
 
@@ -1018,11 +1043,11 @@ At this point all the set screws of the pulleys should be tightened and the tape
 
 
 
-#Spool Holder
+# Spool Holder
 
 ![Assembly Picture](./Raw Assembly Pictures/PKA_182.JPG)
 
-##Spool Holder Subassembly
+## Spool Holder Subassembly
 
 Spool holder 1 printed part
 
@@ -1058,7 +1083,7 @@ Using 2 M2.63 thread forming screws attach spool holder 3 to spool holder 1 with
 
 
 
-Attach Spool Holder to Printer
+## Attach Spool Holder to Printer
 
 Spool holder subassembly you just prepared
 
@@ -1088,9 +1113,11 @@ Also verify spool holder part 2 can slide down allowing the main spool holder to
 
 
 
-#Z Axis
+# Z Axis
 
-##Z Axis Rods
+![Assembly Picture](./Raw Assembly Pictures/PKA_245.JPG)
+
+## Z Axis Rods
 
 6 M2.63-1.06x14 screws (bag 6)
 
@@ -1104,7 +1131,7 @@ Z end stop mount printed part
 
 Insert the rods into the z axis upper rod mount. Ensure the rods are fully seated against the frame
 
-![Assembly Picture](./Raw Assembly Pictures/PKA_184.JPG)
+![Assembly Picture](./Raw Assembly Pictures/PKA_184.JPG) 
 
 Secure rods using 4 screws and a T8 driver. Be careful not to overtighten these screws
 
@@ -1120,15 +1147,15 @@ Bend the wires into the inside corner as shown.
 
 Slide end stop with sensor down back right rod. Note the orientation.
 
-![Assembly Picture](./Raw Assembly Pictures/PKA_188.JPG)
+![Assembly Picture](./Raw Assembly Pictures/PKA_188.JPG) 
 
-Set the end stop Xmm away from the plastic on the Z axis upper rod mount. Tighten the two screws with a T8 driver. Be careful not to overtighten these screws
+Set the end stop **X** mm away from the plastic on the Z axis upper rod mount. Tighten the two screws with a T8 driver. Be careful not to overtighten these screws FIX DISTANCE
 
-![Assembly Picture](./Raw Assembly Pictures/PKA_189.JPG)
+![Assembly Picture](./Raw Assembly Pictures/PKA_189.JPG) 
 
 
 
-##Bed Clips
+## Bed Clips
 
 Z axis bed
 
@@ -1166,7 +1193,7 @@ Tighten with 2mm allen key and 5.5mm (or adjustable) wrench until the lock washe
 
 
 
-##Bed Heater
+## Bed Heater
 
 Bed assembly you just prepared
 
@@ -1180,7 +1207,7 @@ Remove liner from heated pad and secure on square pedestal on aluminum heat spre
 
 
 
-##Z Axis Frame Plate
+## Z Axis Frame Plate
 
 Bed assembly you just prepared
 
@@ -1194,7 +1221,7 @@ Z axis frame plate
 
 ![Assembly Picture](./Raw Assembly Pictures/PKA_198.JPG)
 
-Insert 3 screws into remaining holes in aluminum heat spreader. Thread one nut on each screw ![Assembly Picture](by hand. Do not tighten.
+Insert 3 screws into remaining holes in aluminum heat spreader. Thread one nut on each screw![Assembly Picture](by hand. Do not tighten.
 
 ![Assembly Picture](./Raw Assembly Pictures/PKA_199.JPG)
 
@@ -1234,4 +1261,318 @@ Adjust the nuts so the springs are compressed to a length of about 9mm
 
 ![Assembly Picture](./Raw Assembly Pictures/PKA_208.JPG)
 
-## More to follow...
+
+## Install Flange Bearings
+
+Bed plate you just prepared
+
+4 M4x8 socket cap screws
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_209.JPG)
+
+Place bearings into holes as shown and screw down 4 screws. But do not tighten. These will be tightened later.
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_210.JPG)
+
+
+
+## Bed Prep
+Bed plate you just prepared
+
+Magnet (bed 13)
+
+Z end stop magnet mount printed part
+
+3 M3x8 (bag 1)
+
+1 M2.63-1.06x14 screws (bag 6)
+
+lead screw nut (on motor shaft)
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_211.JPG)
+
+Glue magnet into hole on end stop magnet mount as shown. Used medium or thick viscosity super glue.
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_212.JPG)
+
+Slide end stop magnet mount onto the bearing as shown and clamp with the thread forming screw. Tighten using T8 torx driver. Ensure orentation is as shown.
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_213.JPG)
+
+Attach lead screw nut as shown with M3x8 screws. Tighten with 2.5mm allen key.
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_214.JPG)
+
+
+
+## Prepare Frame Rail
+
+1 Shorter extrusion
+
+2 M3x8 socket head cap screws (bag number 1)
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_59.JPG)
+
+Thread screws onto both end of rod. Leave about 2mm of spacing under screw cap.
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_16.JPG)
+
+
+
+## IO Mount
+
+Frame rail you just prepared
+
+Power plug
+
+Power plug nut
+
+1 M3x8 screws (bag 1)
+
+1 M3 square nut (bag 11)
+
+IO mount printed part
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_215.JPG)
+
+Insert screw into hole as shown and thread on nut
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_216.JPG)
+
+Slide nut into frame rail as shown
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_217.JPG)
+
+Using a straight edge align the io mount flush to the edge of the rail and tighten the screw as shown
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_218.JPG)
+
+After the screw has been tightened check that the io cover is flush with the extrusion face and aligned to a straight edge as shown
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_219.JPG)
+
+Insert the power jack into the printed part as shown
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_220.JPG)
+
+Using a wrench (adjustable recommended) tighten the nut on the back of the power jack
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_221.JPG)
+
+
+
+## Lower Rod Mount
+
+IO mount assembly you just prepared
+
+Z axis lower rod mount printed part
+
+Mini rambo mount 2 printed part (this is the rambo mount there is only one of)
+
+Z axis motor mount printed part
+
+5 M3 square nuts (bag 11)
+
+5 M3x8 screws (bag 1)
+
+2 M2.63-1.06x10 screws (bag 5)
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_222.JPG)
+
+Ensure you have the correct rambo mount
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_223.JPG)
+
+Slide rambo mount onto frame as shown. Ensure proper orientation
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_224.JPG)
+
+Attach the z axis motor mount to the lower rod mount using the 2 long screws as shown and a T8 driver
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_225.JPG)
+
+Place 4 screws into the holes of Z axis lower rod mount and 1 into the motor mount. Thread square nuts onto them
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_226.JPG)
+
+Slide assembly onto frame rail but do not tighten. Ensure orientation is correct.
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_227.JPG)
+
+
+
+## Bed Attachment
+
+Lower rod mount you just prepared
+
+Bed assembly you prepared
+
+4 M2.63-1.06x14 screws (bag 6)
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_228.JPG)
+
+Slide bed onto rods as shown
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_229.JPG)
+
+Slide on the lower rod mount assembly ensuring the z axis rods go into the rod mounts
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_230.JPG)
+
+Use a 2.5mm allen key to tighten the screws in the extrusion. Insert the allen key through the drilled hole to tighten. As you tighten ensure the extrusions are 
+square and flush.
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_231.JPG)
+
+Tighten 4 screws on lower rod mount with 2.5mm allen key to secure to frame.
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_232.JPG)
+
+When tightening, calipers can be used to ensure the rods are the same distance from edge of the frame on the top and on the bottom. This step is reccommended but not required.
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_233.JPG)
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_234.JPG)
+
+Tighten the 1 screw on the motor mount with 2.5mm allen key. Be careful not to overtighten this.
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_235.JPG)
+
+Tighten the 4 theread forming screws clamping the rods to the lower rod mount using a T8 driver.
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_236.JPG)
+
+Tighten the 4 screws attaching the flange bearings to the bed using a 3mm allen key
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_237.JPG)
+
+
+
+## Z Axis Motor
+
+NEMA 14 Motor with lead screw
+
+4 M4x8 socket cap screw
+
+1 thermal pad (bag 19)
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_238.JPG)
+
+Remove liner and attach the thermal pad to the motor as shown. Ensure orientation of pad is correct with respect to the plug
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_239.JPG)
+
+Place motor onto mount. Thread lead screw into lead screw nut as shown
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_240.JPG)
+
+Insert 4 screws into motor mount and get them started. Do not fully tighten
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_241.JPG)
+
+Turn the lead screw by hand to lower the bed all the way
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_242.JPG)
+
+Tighten the 2 rear z axis motor screws through the holes in the z axis frame plate using 2.5mm allen key
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_243.JPG)
+
+Turn the lead screw by hand to raise the bed and tighten the remaining two motor screws with 2.5mm allen key
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_244.JPG)
+
+
+
+# Complete Frame
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_259.JPG)
+
+
+## Lower Right Frame Rail
+
+1 Shorter extrusion
+
+2 M3x8 socket head cap screws (bag 1)
+
+2 mini rambo mount 1 printed part
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_246.JPG)
+
+Thread screws onto both end of rod. Leave about 2mm of spacing under screw cap.
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_16.JPG)
+
+Slide rambo mounts onto rail. Ensure proper orientation
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_247.JPG)
+
+Slide frame rail you just prepared onto longer extrusion of right side of printer as shown
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_248.JPG)
+
+Use a 2.5mm allen key to tighten the screws in the extrusion. Insert the allen key through the drilled hole to tighten. As you tighten insure the extrusions are square and flush.
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_249.JPG)
+
+
+## Lower Front Frame Rail
+
+1 Shorter extrusion
+
+2 M3x8 socket head cap screws (bag 1)
+
+LCD mount 1 printed part
+
+LCD mount 2 printed part
+
+LCD mount 4 printed part
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_250.JPG)
+
+Thread screws onto both end of rod. Leave about 2mm of spacing under screw cap.
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_16.JPG)
+
+Slide LCD mount 4 printed part on as shown
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_251.JPG)
+
+Slide LCD mount 1 printed part on as shown on the front right corner frame rail of the printer
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_252.JPG)
+
+Slide LCD mount 2 printed part on as shown on the front right corner frame rail of the printer
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_253.JPG)
+
+Slide frame rail you just prepared onto longer extrusion of front of the printer as shown
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_254.JPG)
+
+Use a 2.5mm allen key to tighten the screws in the extrusion. Insert the allen key through the drilled hole to tighten. As you tighten insure the extrusions are square and flush.
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_255.JPG)
+
+
+## Lower Left Frame Rail
+
+1 Shorter extrusion
+
+2 M3x8 socket head cap screws (bag 1)
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_256.JPG)
+
+Thread screws onto both end of rod. Leave about 2mm of spacing under screw cap.
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_16.JPG)
+
+Slide frame rail you just prepared onto longer extrusion of left side of printer as shown
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_257.JPG)
+
+Use a 2.5mm allen key to tighten the screws in the extrusion. Insert the allen key through the drilled hole to tighten. As you tighten insure the extrusions are square and flush.
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_258.JPG)
+
+# More to follow...
