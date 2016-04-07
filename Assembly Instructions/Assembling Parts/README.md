@@ -1,3 +1,6 @@
+# Kitten Assembly Instructions
+PIC of assembled printer
+
 # Upper Back Right Corner
 
 ![Assembly Picture](./Raw Assembly Pictures/PKA_50.JPG)
@@ -1575,4 +1578,593 @@ Use a 2.5mm allen key to tighten the screws in the extrusion. Insert the allen k
 
 ![Assembly Picture](./Raw Assembly Pictures/PKA_258.JPG)
 
-# More to follow...
+
+
+# Extruder
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_269.JPG)
+
+## Assmble Extruder
+
+BondTech Houding Front printed part
+BondTech Houding Rear printed part
+Bond tech supply parts (bag 22)
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_260.JPG)
+
+Assemble extruder using Bondtech's Instructions. If you bought the kit from us you will have received an email from us with the bondtech assembly instructions. If you are sourcing the parts yourself Bondtech will have sent you the email. If you don't have the instructions send us an email. Bondtech would like us not to post their instructions online.
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_261.JPG)
+
+## Attach Extruder
+
+Extruder motor assembly you just prepared
+
+1 thermal pad (bag 19)
+
+2 M3x8 socket cap screws (bag 1)
+
+2 M3 square nuts (bag 11)
+
+4 M2.63-1.06x14 screws (bag 6)
+
+Bondtech clamp 1 printed part
+
+Bondtech clamp 2 printed part
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_262.JPG)
+
+Attach M3x8 screws and square nuts to Bondtech clamp 1. Do not tighten
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_263.JPG)
+
+Slide Bondtech clamp 1 onto frame and push as far up as it will go. Secure with 2.5mm allen key
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_264.JPG)
+
+Attach thermal pad to motor as shown.
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_265.JPG)
+
+Place extruder assembly onto printer as shown
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_266.JPG)
+
+Attach Bondtech clamp 2 using 4 thread forming screws and tighten with T8 torx driver.
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_267.JPG)
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_268.JPG)
+
+
+
+# Electronics
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_327.JPG)
+
+
+
+## Mini Rambo
+
+Mini Rambo control board (mini rambo box)
+
+3 M2.63-1.06x10 screws (bag 5)
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_270.JPG)
+
+Attach mini rambo to mini rambo mouunts using screws and T8 driver. You will likely need to slide the mounts to make them line up with the holes in the mini rambo
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_271.JPG)
+
+Ensure mini rambo is oriented correctly
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_272.JPG)
+
+
+
+## Install LCD
+
+LCD
+
+2 LCD wires (with LCD, both same)
+
+4 M2.63-1.06x10 screws (bag 5)
+
+LCD mount 3 printed part
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_273.JPG)
+
+Attach LCD mount 3 to upper left corner of LCD using 1 of the screws as shown
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_274.JPG)
+
+Position the LCD onto the printer. Sliding it into the other 3 LCD mounts, which you will likely need to slide to make them all line up. Secure LCD using 3 screws and T8 torx driver
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_275.JPG)
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_276.JPG)
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_277.JPG)
+
+We reccommend taping the wires up as shown. 1.2" (30mm) folded up once. Note the tab on the connector. This side will plug into the LCD. Do this for both wires.
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_278.JPG)
+ 
+Plug 1 cable into mini rambo extensions P2 port
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_279.JPG)
+
+Plug other end of cable into back of LCD EXP2 port as shown
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_280.JPG)
+
+Plug other cable into mini rambo extensions P1 port
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_281.JPG)
+
+Plug other end of the cable into back of LCD EXP1 port as shown
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_282.JPG)
+
+We reccommend taping the wires to the lower right frame rail as shown
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_283.JPG)
+
+
+
+## Plug in End Stop Wires
+
+No parts needed
+
+Take Y end stop wire
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_284.JPG)
+
+Feed through hole as shown
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_285.JPG)
+
+Plug into the ymax port of mini rambo as shown
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_286.JPG)
+
+Take X end stop wire
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_287.JPG)
+
+Route wire through hole as shown
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_288.JPG)
+
+Plug it in to xmax port on mini rambo
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_289.JPG)
+
+Take Z end stop wire
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_290.JPG)
+
+Route wire through hole as shown
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_291.JPG)
+
+Plug it into the zmin port on mini rambo
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_292.JPG)
+
+
+
+## Plug in heated bed
+
+1 terminal block connector (mini rambo box)
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_293.JPG)
+
+Feed heater pad power wires through hole.
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_294.JPG)
+
+Using flat head screw driver attach wires to terminal block. Polarity does not matter
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_295.JPG)
+
+Plug into bed port on mini rambo
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_296.JPG)
+
+Route the bed thermister wire through the hole as shown
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_297.JPG)
+
+Plug into T2 port on mini rambo
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_298.JPG)
+
+
+
+## Motor Wires
+
+4 motor wires (mini rambo box, all different lengths)
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_299.JPG)
+
+Take shortest wire (about 17cm) and plug into the z motor
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_300.JPG)
+
+Plug other end of wire into z motor port on mini rambo
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_301.JPG)
+
+Take second shortest wire (about 22cm) and plug into the extruder motor
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_302.JPG)
+
+Feed through hole as shown
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_303.JPG)
+
+Plug into e motor port on mini rambo
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_304.JPG)
+
+Take next shortest wire (about 28cm) and plug into the x motor
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_305.JPG)
+
+Feed through hole as shown
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_306.JPG)
+
+Plug into x motor port on mini rambo
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_307.JPG)
+
+Take longest wire (about 41cm) and plug into the y motor
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_308.JPG)
+
+Feed through hole as shown
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_309.JPG)
+
+Plug into y motor port on mini rambo
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_310.JPG)
+
+
+
+## USB Extension Cable
+
+USB Extension Cable
+
+2 M2.63-1.06x14 screws (bag 6)
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_311.JPG)
+
+Feed cable through hole on IO mount and secure with 2 screws and T8 driver
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_312.JPG)
+
+Plug connector into mini rambo board
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_313.JPG)
+
+
+
+## Secure Wires
+
+Zip ties
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_314.JPG)
+
+Zip tie motor wires near x motor.
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_315.JPG)
+
+Zip tie extruder motor and bed wires near extruder motor. Ensure bed wires have enough slack to go through the full range of bed travel
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_316.JPG)
+
+Zip tie all the wires slightly beneth the extruder motor
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_317.JPG)
+
+Zip tie all wires before they go through the io mount
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_318.JPG)
+
+Zip tie wires after they leave IO mount
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_319.JPG)
+
+Zip tie wires (including USB extension) where shown
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_320.JPG)
+
+Zip tie wires again where shown
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_321.JPG)
+
+Zip tie wires again near where the end stop wires plug into mini rambo
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_322.JPG)
+
+Cut off ends of all zip ties
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_323.JPG)
+
+
+
+## Power Jack
+
+1 terminal block connector
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_324.JPG)
+
+Plug the longer two wires on the power jack plug to the terminal block. Polarity *does* matter. Use flathead screwdriver.
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_325.JPG)
+
+Plug terminal block connector into the pwr in port of mini rambo
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_326.JPG)
+
+
+# Print Head
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_367.JPG)
+
+
+## Assemble Hot End
+
+E3D Hot End Parts (e3d bag)
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_328.JPG)
+
+Assemble hot end to as shown state. Use [e3d's instructions](http://wiki.e3d-online.com/wiki/E3D-Lite6_Assembly). Hot tightening will be completed after plugging in the hot end.
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_329.JPG)
+
+
+
+## Plug in Hot End
+
+Hot end assembly you just prepared
+
+Power supply
+
+1 Terminal block
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_330.JPG)
+
+Feed hot end power wires through hole as shown
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_331.JPG)
+
+Attach hot end power wires to terminal block with flat head screw driver. Polarity does not matter.
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_332.JPG)
+
+Attach terminal block to extruder output port on mini rambo
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_333.JPG)
+
+Feed thermister wires through hole
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_334.JPG)
+
+Plug thermister wire into T0 port on mini rambo
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_335.JPG)
+
+Plug in power supply to printer and to wall. LCD screen should light up.
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_336.JPG)
+
+Adjust potentiometer on LCD screen to change contrest if needed, with small screwdriver
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_337.JPG)
+
+To preheat hot end (as per E3D's instructions) set the hot end temperature by pressing the control knob on the LCD to bring up the menu. Navigate to control, then temperature, then nozle. Set the temperature to E3D's hot tightening temperature.
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_338.JPG)
+
+Follow the [hot tightening instructions](http://wiki.e3d-online.com/wiki/E3D-Lite6_Assembly#Hot-Tightening) from E3D. Ensure hot end is positioned so it will not damage anything when it warms up.
+
+
+
+## Print Head Bearings
+
+Print head body printed part
+
+2 linear barings (bag 14)
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_339.JPG)
+
+Slide bearings into holes on print head as shown. It is acceptable to use a clamp to help push them in, but be sure they are going in square to the part. Also be careful not to crack the printed part.
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_340.JPG)
+
+
+
+## Print Head Fans
+
+25mm Fan (mini rambo box)
+
+30mm Fan (e3d bag)
+
+7 M2.63-1.06x14 screws (bag 6)
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_341.JPG)
+
+Attach 25mm fan using 3 screws and T8 driver. Be sure not to overtighten.
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_342.JPG)
+
+Attach 30mm fan using 4 screw and T8 driver. Be sure not to overtighten
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_343.JPG)
+
+
+
+## Attach Hot End
+
+Print head assembly you just prepared
+
+Print head clamp printed part
+
+2 M2.63-1.06x14 screws (bag 6)
+
+1 twist tie (attached to power supply wires)
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_344.JPG)
+
+Put hot end into print head body as shown
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_345.JPG)
+
+Secure hot end with print head clamp printed part and 2 screws using T8 driver.
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_346.JPG)
+
+Secure wires to hot end heatsink using twist tie
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_347.JPG)
+
+
+
+## XY Gantary
+
+Print head assembly you just prepared
+
+2 6mm rods
+
+8 M2.63-1.06x10 screws (bag 5)
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_348.JPG)
+
+Slide rods through holes on x y ends and linear bearings on print head assembly. Do both X and Y rods
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_349.JPG)
+
+Put screws into X Y ends to clamp the rods and tighten with T8 driver. There are 2 screws per X Y end, repeat for all 4 ends. This will require bending the belt slightly to tighten screws
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_350.JPG)
+
+
+
+## Bowden Tube
+
+Bowden tube
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_351.JPG)
+
+Stick one end of bowden tube into hot end. Be sure it is presed *all* the way in. Once the bowden tube is all the way in, use your fingernails (or a screwdriver gently) to move the black collar up like shown.
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_352.JPG)
+
+Put other end of bowden tube into ethe xtruder. Be sure it is presed *all* the way in. Once the bowden tube is all the way in use your fingernails (or a screwdriver gently) to move the black collar up like shown.
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_353.JPG)
+
+
+
+## Print Head Fan Wires
+
+Zip ties
+
+Terminal block
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_354.JPG)
+
+Take the 30mm fan wire (the one with a connector) and put it through the hole on the IO mount.
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_355.JPG)
+
+Plug it into the fan 1 port on mini rambo
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_356.JPG)
+
+Feed the two ends of the 25mm fan wires through the hole on the IO mount
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_357.JPG)
+
+Attach the remaing red wire from the power jack plug and the red wire of the 25mm fan to the same hole in the terminal block using a flathead screwdriver. After tightening gently pull on the wires to ensure that both wires are connected. Be sure the wires are in the correct hole (see picture)
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_358.JPG)
+
+Attatch the black wire from the 25mm fan to the remaing connector on the terminal block and tighten with flat head screwdriver
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_359.JPG)
+
+Plug terminal block to bed in port on mini rambo
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_360.JPG)
+
+Attach zip tie to wires next to print head
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_361.JPG)
+
+Attatch zip tie to wires and bowden tube
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_362.JPG)
+
+Attach about 5 evenly spaced zip ties of the wires and bowden tube
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_363.JPG)
+
+Attach zip tie to print head wires and other wires by the x motor
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_364.JPG)
+
+Attach one more zip tie between all the wires before they go into the hole on the io mount
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_365.JPG)
+
+Trim the zip ties
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_366.JPG)
+
+
+
+# Final Assembly
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_374.JPG)
+
+
+
+## Print Surface
+
+Build Tak
+
+Glass build plate
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_368.JPG)
+
+Remove liner from Buildtak and stick it onto center of glass build plate. We reccommend washing the glass with dish soap prior to sticking the buidtak on.
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_369.JPG)
+
+Pivot right and front left bed clips out.
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_370.JPG)
+
+Slide bed build plate into back bed clip. Then pivot other bed clips to secure the bed plate
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_371.JPG)
+
+
+
+## Feet
+
+4 rubber feet (bag 12)
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_372.JPG)
+
+Remove liner and stick feet to bottom of vertical frame rails. Press firmly to ensure full adhesion.
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_373.JPG)
+
+
+# More to come...
