@@ -1,5 +1,7 @@
 # Kitten Assembly Instructions
-PIC of assembled printer
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_374.JPG)
+
 
 # Upper Back Right Corner
 
