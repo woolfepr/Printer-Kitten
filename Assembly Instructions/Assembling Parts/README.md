@@ -615,7 +615,7 @@ Preinstall the set screws into the pulleys as shown using 1.5mm allen key.
 
 2 xy end printed part
 
-2 2mm x 1mm disc magnet
+2 2mm x 1mm disc magnet (bag 13)
 
 ![Assembly Picture](./Raw Assembly Pictures/PKA_86.JPG)
 
