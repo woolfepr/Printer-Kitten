@@ -1457,7 +1457,7 @@ Tighten the 4 screws attaching the flange bearings to the bed using a 3mm allen 
 
 NEMA 14 Motor with lead screw
 
-4 M4x8 socket cap screw
+4 M3x8 socket cap screw (bag 1)
 
 1 thermal pad (bag 19)
 
