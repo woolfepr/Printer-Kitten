@@ -2036,7 +2036,7 @@ Secure wires to hot end heatsink using twist tie
 
 
 
-## XY Gantary
+## XY Gantry
 
 Print head assembly you just prepared
 
