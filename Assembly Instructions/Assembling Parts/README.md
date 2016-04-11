@@ -1226,7 +1226,7 @@ Z axis frame plate
 
 ![Assembly Picture](./Raw Assembly Pictures/PKA_198.JPG)
 
-Insert 3 screws into remaining holes in aluminum heat spreader. Thread one nut on each screw![Assembly Picture](by hand. Do not tighten.
+Insert 3 screws into remaining holes in aluminum heat spreader. Thread one nut on each screw by hand. Do not tighten.
 
 ![Assembly Picture](./Raw Assembly Pictures/PKA_199.JPG)
 
