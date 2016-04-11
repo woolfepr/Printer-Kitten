@@ -208,7 +208,7 @@ Screw button head cap screw into hole as shown. Tighten with 2mm allen key.
 
 Screw socket head cap screw into the remain hole. Tighten with 2.5mm allen key.
 
-![Assembly Picture](./Raw Assembly Pictures/PKA_31.JPG) 
+![Assembly Picture](./Raw Assembly Pictures/PKA_31.jpg) 
 
 
 
