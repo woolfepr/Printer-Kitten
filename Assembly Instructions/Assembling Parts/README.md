@@ -216,7 +216,7 @@ Screw socket head cap screw into the remain hole. Tighten with 2.5mm allen key.
 
 2 M3 set screws (bag 23)
 
-1 16 tooth pulley (bag 23)
+1 16 tooth pulley (smaller pulley in bag 23)
 
 ![Assembly Picture](./Raw Assembly Pictures/PKA_32.JPG)
 
@@ -266,7 +266,7 @@ Put bearing onto other side of idler
 
 2 M3 set screws (bag 23)
 
-1 16 tooth pulley (bag 23)
+1 16 tooth pulley (smaller pulley in bag 23)
 
 1 NEMA 14 motor (smaller motor)
 
