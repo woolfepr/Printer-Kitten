@@ -1271,7 +1271,7 @@ Adjust the nuts so the springs are compressed to a length of about 9mm
 
 Bed plate you just prepared
 
-4 M4x8 socket cap screws
+4 M4x8 socket cap screws (bag 4)
 
 ![Assembly Picture](./Raw Assembly Pictures/PKA_209.JPG)
 
