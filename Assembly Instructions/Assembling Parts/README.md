@@ -498,7 +498,7 @@ Place screws in holes as shown and thread nuts onto them.
 
 Thread screws onto both end of rod. Leave about 2mm of spacing under screw cap.
 
-![Assembly Picture](./Raw Assembly Pictures/PKA_16.JPG) WRONG?
+![Assembly Picture](./Raw Assembly Pictures/PKA_16.JPG) 
 
 
 
