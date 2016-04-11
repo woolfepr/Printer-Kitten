@@ -756,9 +756,9 @@ Temporally tape over the end of the rod on the front left corner so it can’t f
 
 1 6mm motor belt (bag 17)
 
-1 4-40x0.625 socket cap screw (bag 7)
+1 4-40x0.625 socket cap screw (short screw in bag 7)
 
-1 4-40x1.25 socket cap screw (bag 7)
+1 4-40x1.25 socket cap screw (long screw in bag 7)
 
 1 XY End Belt Clamp 1
 
@@ -826,9 +826,9 @@ Tighten longer screw in belt clamp 3 with a 3/32” allen key (ball end recommen
 
 1 6mm motor belt (bag 17)
 
-1 4-40x0.625 socket cap screw (bag 7)
+1 4-40x0.625 socket cap screw (short screw in bag 7)
 
-1 4-40x1.25 socket cap screw (bag 7)
+1 4-40x1.25 socket cap screw (long screw in bag 7)
 
 1 XY End Belt Clamp 1
 
