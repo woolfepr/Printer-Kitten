@@ -558,7 +558,7 @@ Install bearings into the holes. Ensure fully seated
 
 Place screws in holes as shown and thread nuts onto them.
 
-![Assembly Picture](./Raw Assembly Pictures/PKA_77.JPG) 
+![Assembly Picture](./Raw Assembly Pictures/PKA_77.jpg) 
 
 
 
