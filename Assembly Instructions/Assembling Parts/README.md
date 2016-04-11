@@ -1064,7 +1064,7 @@ Spool holder 4 printed part
 
 1 M3 square nuts (bag 11)
 
-1 M2.63-1.06x10 screws (bag 5)
+2 M2.63-1.06x10 screws (bag 5)
 
 O-Ring 011 (bag 13)
 
