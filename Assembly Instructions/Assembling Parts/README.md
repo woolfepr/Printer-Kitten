@@ -208,7 +208,7 @@ Screw button head cap screw into hole as shown. Tighten with 2mm allen key.
 
 Screw socket head cap screw into the remain hole. Tighten with 2.5mm allen key.
 
-![Assembly Picture](./Raw Assembly Pictures/PKA_31.JPG) 
+![Assembly Picture](./Raw Assembly Pictures/PKA_31.jpg) 
 
 
 
@@ -216,7 +216,7 @@ Screw socket head cap screw into the remain hole. Tighten with 2.5mm allen key.
 
 2 M3 set screws (bag 23)
 
-1 16 tooth pulley (bag 23)
+1 16 tooth pulley (smaller pulley in bag 23)
 
 ![Assembly Picture](./Raw Assembly Pictures/PKA_32.JPG)
 
@@ -266,7 +266,7 @@ Put bearing onto other side of idler
 
 2 M3 set screws (bag 23)
 
-1 16 tooth pulley (bag 23)
+1 16 tooth pulley (smaller pulley in bag 23)
 
 1 NEMA 14 motor (smaller motor)
 
@@ -498,7 +498,7 @@ Place screws in holes as shown and thread nuts onto them.
 
 Thread screws onto both end of rod. Leave about 2mm of spacing under screw cap.
 
-![Assembly Picture](./Raw Assembly Pictures/PKA_16.JPG) WRONG?
+![Assembly Picture](./Raw Assembly Pictures/PKA_16.JPG) 
 
 
 
@@ -558,7 +558,7 @@ Install bearings into the holes. Ensure fully seated
 
 Place screws in holes as shown and thread nuts onto them.
 
-![Assembly Picture](./Raw Assembly Pictures/PKA_77.JPG) 
+![Assembly Picture](./Raw Assembly Pictures/PKA_77.jpg) 
 
 
 
@@ -615,7 +615,7 @@ Preinstall the set screws into the pulleys as shown using 1.5mm allen key.
 
 2 xy end printed part
 
-2 2mm x 1mm disc magnet
+2 2mm x 1mm disc magnet (bag 13)
 
 ![Assembly Picture](./Raw Assembly Pictures/PKA_86.JPG)
 
@@ -756,9 +756,9 @@ Temporally tape over the end of the rod on the front left corner so it can’t f
 
 1 6mm motor belt (bag 17)
 
-1 4-40x0.625 socket cap screw (bag 7)
+1 4-40x0.625 socket cap screw (short screw in bag 7)
 
-1 4-40x1.25 socket cap screw (bag 7)
+1 4-40x1.25 socket cap screw (long screw in bag 7)
 
 1 XY End Belt Clamp 1
 
@@ -826,9 +826,9 @@ Tighten longer screw in belt clamp 3 with a 3/32” allen key (ball end recommen
 
 1 6mm motor belt (bag 17)
 
-1 4-40x0.625 socket cap screw (bag 7)
+1 4-40x0.625 socket cap screw (short screw in bag 7)
 
-1 4-40x1.25 socket cap screw (bag 7)
+1 4-40x1.25 socket cap screw (long screw in bag 7)
 
 1 XY End Belt Clamp 1
 
@@ -1064,7 +1064,7 @@ Spool holder 4 printed part
 
 1 M3 square nuts (bag 11)
 
-1 M2.63-1.06x10 screws (bag 5)
+2 M2.63-1.06x10 screws (bag 5)
 
 O-Ring 011 (bag 13)
 
@@ -1226,7 +1226,7 @@ Z axis frame plate
 
 ![Assembly Picture](./Raw Assembly Pictures/PKA_198.JPG)
 
-Insert 3 screws into remaining holes in aluminum heat spreader. Thread one nut on each screw![Assembly Picture](by hand. Do not tighten.
+Insert 3 screws into remaining holes in aluminum heat spreader. Thread one nut on each screw by hand. Do not tighten.
 
 ![Assembly Picture](./Raw Assembly Pictures/PKA_199.JPG)
 
@@ -1271,7 +1271,7 @@ Adjust the nuts so the springs are compressed to a length of about 9mm
 
 Bed plate you just prepared
 
-4 M4x8 socket cap screws
+4 M4x8 socket cap screws (bag 4)
 
 ![Assembly Picture](./Raw Assembly Pictures/PKA_209.JPG)
 
@@ -1457,7 +1457,7 @@ Tighten the 4 screws attaching the flange bearings to the bed using a 3mm allen 
 
 NEMA 14 Motor with lead screw
 
-4 M4x8 socket cap screw
+4 M3x8 socket cap screw (bag 1)
 
 1 thermal pad (bag 19)
 
@@ -2036,7 +2036,7 @@ Secure wires to hot end heatsink using twist tie
 
 
 
-## XY Gantary
+## XY Gantry
 
 Print head assembly you just prepared
 
