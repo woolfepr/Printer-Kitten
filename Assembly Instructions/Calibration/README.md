@@ -16,6 +16,4 @@ Using about a 1"x 3" piece of standard printer paper (≈0.1mm thick) as a feele
 
 Repeat the previous step for the front left and then front right. (note: the nozzle will not be able to move all the way right to go over the font right adjustment screw. Just move it as far right as it goes)
 
-Power cycle the printer
-
 ## [Load filament and perform first print](https://github.com/woolfepr/Printer-Kitten/tree/master/Assembly%20Instructions/First%20Print)
