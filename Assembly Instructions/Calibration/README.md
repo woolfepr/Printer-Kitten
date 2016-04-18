@@ -56,4 +56,4 @@ There is gcode file (no slicer needed) ready to go for a first print. [FirstPrin
 
 Once the first print is finished and you are ready to print items of your own choice or design you will need to begin using a slicer/ tool pathing program. I recommend using [Cura by Ultimaker](https://ultimaker.com/en/products/cura-software). Download and install the latest version.
 
-The profile I have fine-tuned to run PLA on the kitten is available on Github. Kitten 1.75.ini(https://github.com/woolfepr/Printer-Kitten/blob/master/Software/Cura%20Profile/Kitten%201.75.ini)  This profile should be a good starting point as far as tuning. You will want to play with the settings in order to get the best results on different models.
+The profile I have fine-tuned to run PLA on the kitten is available on Github. [Kitten 1.75.ini](https://github.com/woolfepr/Printer-Kitten/blob/master/Software/Cura%20Profile/Kitten%201.75.ini)  This profile should be a good starting point as far as tuning. You will want to play with the settings in order to get the best results on different models.
