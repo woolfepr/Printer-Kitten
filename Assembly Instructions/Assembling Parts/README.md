@@ -2178,3 +2178,6 @@ Rub a little vasaline on the 4 exterior XY rods that run through the printed bus
 ![Assembly Picture](./Raw Assembly Pictures/PKA_375.JPG)
 
 By hand slide the print head around to spread the vasaline onto the rods
+
+
+## [Calibration](https://github.com/woolfepr/Printer-Kitten/tree/master/Assembly%20Instructions/Calibration)
