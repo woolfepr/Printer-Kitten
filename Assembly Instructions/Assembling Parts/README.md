@@ -1154,7 +1154,7 @@ Slide end stop with sensor down back right rod. Note the orientation.
 
 ![Assembly Picture](./Raw Assembly Pictures/PKA_188.JPG) 
 
-Set the end stop **X** mm away from the plastic on the Z axis upper rod mount. Tighten the two screws with a T8 driver. Be careful not to overtighten these screws FIX DISTANCE
+Set the end stop **9** mm away from the plastic on the Z axis upper rod mount. Tighten the two screws with a T8 driver. Be careful not to overtighten these screws FIX DISTANCE
 
 ![Assembly Picture](./Raw Assembly Pictures/PKA_189.JPG) 
 
@@ -2169,4 +2169,12 @@ Remove liner and stick feet to bottom of vertical frame rails. Press firmly to e
 ![Assembly Picture](./Raw Assembly Pictures/PKA_373.JPG)
 
 
-# More to come...
+## Lubrication
+
+Vasaline
+
+Rub a little vasaline on the 4 exterior XY rods that run through the printed bushings
+
+![Assembly Picture](./Raw Assembly Pictures/PKA_375.JPG)
+
+By hand slide the print head around to spread the vasaline onto the rods
