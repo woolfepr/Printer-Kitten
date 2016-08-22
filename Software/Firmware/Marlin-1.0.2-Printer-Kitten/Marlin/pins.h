@@ -2416,7 +2416,8 @@ DaveX plan for Teensylu/printrboard-type pinouts (ref teensylu & sprinter) for a
 #define MOTOR_CURRENT_PWM_E_PIN 44
 //Motor current PWM conversion, PWM value = MotorCurrentSetting * 255 / range
 #define MOTOR_CURRENT_PWM_RANGE 2000
-#define DEFAULT_PWM_MOTOR_CURRENT  {1000, 700, 1100}
+#define DEFAULT_PWM_MOTOR_CURRENT  {1000, 700, 1450} 
+//BondTech {x,x,1450} Titan {x,x,1100}
 #define HEATER_0_PIN 3
 #define HEATER_BED_PIN 4
 #define FAN_1_PIN 6
