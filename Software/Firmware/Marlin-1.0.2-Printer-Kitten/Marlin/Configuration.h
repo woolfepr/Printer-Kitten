@@ -481,10 +481,9 @@ const bool Z_MAX_ENDSTOP_INVERTING = true; // set to true to invert the logic of
 #define NUM_AXIS 4 // The axis order in all axis related arrays is X, Y, Z, E
 #define HOMING_FEEDRATE {25*60, 25*60, 8*60, 0}  // set the homing speeds (mm/min)
 
-// default settings
-
-#define DEFAULT_AXIS_STEPS_PER_UNIT   {100,100,1600,404}  // 434 for 1.75mm, 500 for 2.85mm, 404 for Titan 3mm
-#define DEFAULT_MAX_FEEDRATE          {150, 150, 15, 40}    // (mm/sec)  55 for 3mm and 1.75mm
+// default setting
+#define DEFAULT_AXIS_STEPS_PER_UNIT   {100,100,1600,430}  // 430 for Bondtech 1.75mm, 500 for Bondtech 2.85mm(3mm), 404 for Titan 2.85mm(3mm)
+#define DEFAULT_MAX_FEEDRATE          {150, 150, 15, 55}    // (mm/sec)  55 for Bondtech, 45 for Titan
 #define DEFAULT_MAX_ACCELERATION      {3500,3500,200,3000}    // X, Y, Z, E maximum start speed for accelerated moves. E default values are good for Skeinforge 40+, for older versions raise them a lot.
 
 #define DEFAULT_ACCELERATION          3000    // X, Y, Z and E max acceleration in mm/s^2 for printing moves
