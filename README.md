@@ -1,9 +1,7 @@
 # Kitten
-##Portable, Accurate, Open Source 3D Printer
+Portable, Accurate, Open Source 3D Printer
 
 ![Comparing CAD model and real life Kitten Printer](/pic-cad-compare.jpg)
-
-More information, parts, kits, assembled printers available at [printerkitten.com](http://printerkitten.com)
 
 ## Printer Kitten Design Story
 #### 3/31/16 - *Patrick Woolfenden*
